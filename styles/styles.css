@@ -15,6 +15,7 @@ h4 {
 body {
     margin: 10px;
     padding: 30px;
+	font-family: Arial, Helvetica, sans-serif;
 }
 p{
     padding: 0px;
@@ -25,6 +26,10 @@ div{
     margin: 2px;
 }
 b{
+    padding: 0px;
+    margin: 2px;
+}
+a{
     padding: 0px;
     margin: 2px;
 }
